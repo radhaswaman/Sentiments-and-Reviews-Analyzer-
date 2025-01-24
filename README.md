@@ -1,5 +1,6 @@
 # Sentiments-and-Reviews-Analyzer-
 ![Alt text](https://github.com/radhaswaman/Sentiments-and-Reviews-Analyzer-/blob/main/Reviews%20Analyzer%20IMG1.png?raw=true)
+![Alt text](https://github.com/radhaswaman/Sentiments-and-Reviews-Analyzer-/blob/main/Sentiment%20Analysis%20IMG2.png?raw=true)
 
 # Customer Review Analysis Web Application
 
